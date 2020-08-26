@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuditFile xmlns="urn:OECD:StandardAuditFile-Tax:AO_1.01_01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <AuditFileVersion>1.01_01</AuditFileVersion>
+    <CompanyID>5000493341</CompanyID>
+    <TaxRegistrationNumber>1234567890</TaxRegistrationNumber>
+    <TaxAccountingBasis>F</TaxAccountingBasis>
+    <CompanyName>LuiaTech</CompanyName>
+    <BusinessName>LuiaTech</BusinessName>
+    <CompanyAddress>
+      <StreetName>Sapo</StreetName>
+      <AddressDetail>Desconhecido</AddressDetail>
+      <City>Kilamba</City>
+      <PostalCode>000000</PostalCode>
+      <Country>AO</Country>
+    </CompanyAddress>
+    <FiscalYear>2020</FiscalYear>
+    <StartDate>2020-03-01</StartDate>
+    <EndDate>2020-04-01</EndDate>
+    <CurrencyCode>AOA</CurrencyCode>
+    <DateCreated>2020-04-01</DateCreated>
+    <TaxEntity>Global</TaxEntity>
+    <ProductCompanyTaxID>5401153236</ProductCompanyTaxID>
+    <SoftwareValidationNumber>41/AGT/2019</SoftwareValidationNumber>
+    <ProductID>SisFatura V1/Software de Faturas</ProductID>
+    <ProductVersion>1.001</ProductVersion>
+  </Header>
+  <MasterFiles>
+    <Customer>
+      <CustomerID>29</CustomerID>
+      <AccountID>Desconhecido</AccountID>
+      <CustomerTaxID>9999999999</CustomerTaxID>
+      <CompanyName>Ana Boaventura</CompanyName>
+      <BillingAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Province>Desconhecido</Province>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Customer>
+      <CustomerID>30</CustomerID>
+      <AccountID>Desconhecido</AccountID>
+      <CustomerTaxID>9999999999</CustomerTaxID>
+      <CompanyName>Bar Bar</CompanyName>
+      <BillingAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Province>Desconhecido</Province>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Customer>
+      <CustomerID>31</CustomerID>
+      <AccountID>Desconhecido</AccountID>
+      <CustomerTaxID>9999999999</CustomerTaxID>
+      <CompanyName>Celestino</CompanyName>
+      <BillingAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Province>Desconhecido</Province>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Customer>
+      <CustomerID>32</CustomerID>
+      <AccountID>Desconhecido</AccountID>
+      <CustomerTaxID>9999999999</CustomerTaxID>
+      <CompanyName>Fonseca</CompanyName>
+      <BillingAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Province>Desconhecido</Province>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Customer>
+      <CustomerID>33</CustomerID>
+      <AccountID>Desconhecido</AccountID>
+      <CustomerTaxID>9999999999</CustomerTaxID>
+      <CompanyName>JNPC SERVIÇOS DE CONTABILIDADE</CompanyName>
+      <BillingAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Province>Desconhecido</Province>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Customer>
+      <CustomerID>34</CustomerID>
+      <AccountID>Desconhecido</AccountID>
+      <CustomerTaxID>9999999999</CustomerTaxID>
+      <CompanyName>Lizandra Almeida</CompanyName>
+      <BillingAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Province>Desconhecido</Province>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Customer>
+      <CustomerID>35</CustomerID>
+      <AccountID>Desconhecido</AccountID>
+      <CustomerTaxID>9999999999</CustomerTaxID>
+      <CompanyName>Nelson Tolosse Gabriel de Alegria</CompanyName>
+      <BillingAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Province>Desconhecido</Province>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <AddressDetail>Desconhecido</AddressDetail>
+        <City>Desconhecido</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>Website 10</ProductCode>
+      <ProductGroup>Sem familia</ProductGroup>
+      <ProductDescription>xxxxxxxxxx</ProductDescription>
+      <ProductNumberCode>A1</ProductNumberCode>
+    </Product>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>Link5Dias</ProductCode>
+      <ProductGroup>Sem familia</ProductGroup>
+      <ProductDescription>xxxxxxxxxx</ProductDescription>
+      <ProductNumberCode>A2</ProductNumberCode>
+    </Product>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>EasyEdu</ProductCode>
+      <ProductGroup>Sem familia</ProductGroup>
+      <ProductDescription>Sistema de Gestão Escolar</ProductDescription>
+      <ProductNumberCode>A3</ProductNumberCode>
+    </Product>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>Aplicações Mobile e web</ProductCode>
+      <ProductGroup>Sem familia</ProductGroup>
+      <ProductDescription>depende do tipo de aplicativo</ProductDescription>
+      <ProductNumberCode>A5</ProductNumberCode>
+    </Product>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>Criação de sites</ProductCode>
+      <ProductGroup>Sem familia</ProductGroup>
+      <ProductDescription>xxxxxxxxxx</ProductDescription>
+      <ProductNumberCode>A6</ProductNumberCode>
+    </Product>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>Gestão total das redes socias</ProductCode>
+      <ProductGroup>Sem familia</ProductGroup>
+      <ProductDescription>Esse valor é mensal</ProductDescription>
+      <ProductNumberCode>A7</ProductNumberCode>
+    </Product>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>Sistema de envio de SMS</ProductCode>
+      <ProductGroup>Sem familia</ProductGroup>
+      <ProductDescription>depende do pacote a ser contratado.
+o valor descrito é mensal</ProductDescription>
+      <ProductNumberCode>A8</ProductNumberCode>
+    </Product>
+    <TaxTable>
+      <TaxTableEntry>
+        <TaxType>IVA</TaxType>
+        <TaxCountryRegion>AO</TaxCountryRegion>
+        <TaxCode>ISE</TaxCode>
+        <Description>IMPOSTO SOBRE O VALOR ACRESCENTADO</Description>
+        <TaxPercentage>14.000</TaxPercentage>
+      </TaxTableEntry>
+    </TaxTable>
+  </MasterFiles>
+  <SourceDocuments>
+    <SalesInvoices>
+      <NumberOfEntries>1</NumberOfEntries>
+      <TotalDebit>0.00</TotalDebit>
+      <TotalCredit>100.00</TotalCredit>
+      <Invoice>
+        <InvoiceNo>FT FA.2020/1</InvoiceNo>
+        <DocumentStatus>
+          <InvoiceStatus>N</InvoiceStatus>
+          <InvoiceStatusDate>2020-03-16T19:17:13</InvoiceStatusDate>
+          <SourceID>MIGUEL.SILVA</SourceID>
+          <SourceBilling>P</SourceBilling>
+        </DocumentStatus>
+        <Hash>S3JRPiJeccZLX0ZPQrlnsUhW2nkZSb+fv92MCqcqc7sHy0vZMBPfKDUdXkJBQ+4id2aWu35LuFABd0Xa28aX6/ybHBfcINUFyGrYlJmcfLRgyWcrDtS8bH8SUWMlwUi+USxDzBeCCvm9whDDYfOQgWCo9nGORkuWGB1b2Ze9evQ=</Hash>
+        <HashControl>1</HashControl>
+        <Period>3</Period>
+        <InvoiceDate>2020-03-16</InvoiceDate>
+        <InvoiceType>FT</InvoiceType>
+        <SpecialRegimes>
+          <SelfBillingIndicator>0</SelfBillingIndicator>
+          <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+          <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+        </SpecialRegimes>
+        <SourceID>MIGUEL.SILVA</SourceID>
+        <SystemEntryDate>2020-03-16T19:17:13</SystemEntryDate>
+        <CustomerID>29</CustomerID>
+        <ShipTo>
+          <DeliveryDate>2020-03-16</DeliveryDate>
+          <Address>
+            <AddressDetail>dfdfdsf</AddressDetail>
+            <City>sdfsdf</City>
+            <PostalCode>0000</PostalCode>
+            <Country>AO</Country>
+          </Address>
+        </ShipTo>
+        <ShipFrom>
+          <DeliveryDate>2020-03-16</DeliveryDate>
+          <Address>
+            <AddressDetail>dfdfdsf</AddressDetail>
+            <City>sdfsdf</City>
+            <PostalCode>0000</PostalCode>
+            <Country>AO</Country>
+          </Address>
+        </ShipFrom>
+        <MovementStartTime>2020-03-16T19:19:00</MovementStartTime>
+        <Line>
+          <LineNumber>1</LineNumber>
+          <ProductCode>Link5Dias</ProductCode>
+          <ProductDescription>A1</ProductDescription>
+          <Quantity>100</Quantity>
+          <UnitOfMeasure>UN</UnitOfMeasure>
+          <UnitPrice>1</UnitPrice>
+          <TaxPointDate>2020-03-16</TaxPointDate>
+          <Description>A001</Description>
+          <CreditAmount>100.00</CreditAmount>
+          <Tax>
+            <TaxType>IVA</TaxType>
+            <TaxCountryRegion>AO</TaxCountryRegion>
+            <TaxCode>NOR</TaxCode>
+            <TaxPercentage>14.00</TaxPercentage>
+          </Tax>
+          <SettlementAmount>0.00</SettlementAmount>
+        </Line>
+        <DocumentTotals>
+          <TaxPayable>14.00</TaxPayable>
+          <NetTotal>100.00</NetTotal>
+          <GrossTotal>114.00</GrossTotal>
+        </DocumentTotals>
+        <WithholdingTax>
+          <WithholdingTaxType>IRT</WithholdingTaxType>
+          <WithholdingTaxDescription>str1234</WithholdingTaxDescription>
+          <WithholdingTaxAmount>1123.45</WithholdingTaxAmount>
+        </WithholdingTax>
+      </Invoice>
+    </SalesInvoices>
+  </SourceDocuments>
+</AuditFile>
+

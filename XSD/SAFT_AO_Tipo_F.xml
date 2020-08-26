@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AuditFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>
+    <AuditFileVersion>1.01_01</AuditFileVersion>
+    <CompanyID>508183138</CompanyID>
+    <TaxRegistrationNumber>508183138</TaxRegistrationNumber>
+    <TaxAccountingBasis>F</TaxAccountingBasis>
+    <CompanyName>ITGest Demo SAP B1 AO</CompanyName>
+    <CompanyAddress>
+      <BuildingNumber>156</BuildingNumber>
+      <StreetName>Rua Conego Manuel das Neves</StreetName>
+      <AddressDetail>Rua Conego Manuel das Neves, 156, 1º Andar</AddressDetail>
+      <City>Luanda</City>
+      <PostalCode>1224-C1</PostalCode>
+      <Province>Luanda</Province>
+      <Country>AO</Country>
+    </CompanyAddress>
+    <FiscalYear>2019</FiscalYear>
+    <StartDate>2019-10-01</StartDate>
+    <EndDate>2019-10-24</EndDate>
+    <CurrencyCode>AOA</CurrencyCode>
+    <DateCreated>2019-10-24</DateCreated>
+    <TaxEntity>Global</TaxEntity>
+    <ProductCompanyTaxID>5480007874</ProductCompanyTaxID>
+    <SoftwareValidationNumber>96</SoftwareValidationNumber>
+    <ProductID>SAP Business One/Sybase Angola</ProductID>
+    <ProductVersion>930100</ProductVersion>
+    <Telephone>00244 946 794 054</Telephone>
+    <Fax>+244 222 310 001</Fax>
+    <Email>emailempresaangola@gmail.com</Email>
+    <Website>https://itgest.co.ao/</Website>
+  </Header>
+  <MasterFiles>
+    <Customer>
+      <CustomerID>C00001</CustomerID>
+      <AccountID>311121</AccountID>
+      <CustomerTaxID>23612341234</CustomerTaxID>
+      <CompanyName>Restaurante SAD</CompanyName>
+      <Contact>Patricia</Contact>
+      <BillingAddress>
+        <BuildingNumber>236</BuildingNumber>
+        <StreetName>Av Murtala Mohamed</StreetName>
+        <AddressDetail>Av Murtala Mohamed, 236,</AddressDetail>
+        <City>Luanda</City>
+        <PostalCode>1212</PostalCode>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <StreetName>Av Murtala Mohamed</StreetName>
+        <AddressDetail>Av Murtala Mohamed,</AddressDetail>
+        <City>Luanda</City>
+        <PostalCode>1212</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <Telephone>+244 23421341234</Telephone>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Customer>
+      <CustomerID>C00002</CustomerID>
+      <AccountID>311121</AccountID>
+      <CustomerTaxID>12</CustomerTaxID>
+      <CompanyName>Restaurante 1234</CompanyName>
+      <BillingAddress>
+        <BuildingNumber>12</BuildingNumber>
+        <StreetName>Cid Baixo</StreetName>
+        <AddressDetail>Cid Baixo, 12,</AddressDetail>
+        <City>Huambo</City>
+        <PostalCode>3456</PostalCode>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <StreetName>Cid Baixo</StreetName>
+        <AddressDetail>Cid Baixo,</AddressDetail>
+        <City>Huambo</City>
+        <PostalCode>2456</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <ShipToAddress>
+        <BuildingNumber>2344</BuildingNumber>
+        <StreetName>Rua Julio Dinis</StreetName>
+        <AddressDetail>Rua Julio Dinis, 2344, Edifiico A, sala 22</AddressDetail>
+        <City>Luanda</City>
+        <PostalCode>2343</PostalCode>
+        <Province>Luanda</Province>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Customer>
+      <CustomerID>C00006</CustomerID>
+      <AccountID>311121</AccountID>
+      <CustomerTaxID>1234567890</CustomerTaxID>
+      <CompanyName>Clube Náutico</CompanyName>
+      <BillingAddress>
+        <BuildingNumber>40</BuildingNumber>
+        <StreetName>Rua Marechal Gomes da Costa</StreetName>
+        <AddressDetail>Rua Marechal Gomes da Costa, 40</AddressDetail>
+        <City>Luanda</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </BillingAddress>
+      <ShipToAddress>
+        <BuildingNumber>40</BuildingNumber>
+        <StreetName>Rua Marechal Gomes da Costa</StreetName>
+        <AddressDetail>Rua Marechal Gomes da Costa, 40</AddressDetail>
+        <City>Luanda</City>
+        <PostalCode>Desconhecido</PostalCode>
+        <Country>AO</Country>
+      </ShipToAddress>
+      <SelfBillingIndicator>0</SelfBillingIndicator>
+    </Customer>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>10020100</ProductCode>
+      <ProductGroup>Refrigerantes</ProductGroup>
+      <ProductDescription>COCA COLA 0,20 TR</ProductDescription>
+      <ProductNumberCode>10020100</ProductNumberCode>
+    </Product>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>10020101</ProductCode>
+      <ProductGroup>Refrigerantes</ProductGroup>
+      <ProductDescription>COCA COLA 0,20 TR</ProductDescription>
+      <ProductNumberCode>10020101</ProductNumberCode>
+    </Product>
+    <Product>
+      <ProductType>P</ProductType>
+      <ProductCode>T01</ProductCode>
+      <ProductGroup>Outros Artigos</ProductGroup>
+      <ProductDescription>Artigo não Classificado</ProductDescription>
+      <ProductNumberCode>T01</ProductNumberCode>
+    </Product>
+    <TaxTable>
+      <TaxTableEntry>
+        <TaxType>IVA</TaxType>
+        <TaxCountryRegion>AO</TaxCountryRegion>
+        <TaxCode>ISE</TaxCode>
+        <Description>IVA Isento</Description>
+        <TaxExpirationDate>2016-12-31</TaxExpirationDate>
+        <TaxPercentage>0</TaxPercentage>
+      </TaxTableEntry>
+      <TaxTableEntry>
+        <TaxType>IVA</TaxType>
+        <TaxCountryRegion>AO</TaxCountryRegion>
+        <TaxCode>ISE</TaxCode>
+        <Description>IVA Isento</Description>
+        <TaxExpirationDate>2099-12-31</TaxExpirationDate>
+        <TaxPercentage>0</TaxPercentage>
+      </TaxTableEntry>
+      <TaxTableEntry>
+        <TaxType>IVA</TaxType>
+        <TaxCountryRegion>AO</TaxCountryRegion>
+        <TaxCode>NOR</TaxCode>
+        <Description>Imp Consumo Produtos Tx Normal</Description>
+        <TaxExpirationDate>2016-12-31</TaxExpirationDate>
+        <TaxPercentage>5</TaxPercentage>
+      </TaxTableEntry>
+      <TaxTableEntry>
+        <TaxType>IVA</TaxType>
+        <TaxCountryRegion>AO</TaxCountryRegion>
+        <TaxCode>NOR</TaxCode>
+        <Description>Imp Consumo Produtos Tx Normal</Description>
+        <TaxExpirationDate>2099-12-31</TaxExpirationDate>
+        <TaxPercentage>10</TaxPercentage>
+      </TaxTableEntry>
+      <TaxTableEntry>
+        <TaxType>IVA</TaxType>
+        <TaxCountryRegion>AO</TaxCountryRegion>
+        <TaxCode>NOR</TaxCode>
+        <Description>Iva Liquidado Inventários Taxa Normal M.Nac</Description>
+        <TaxExpirationDate>2099-12-31</TaxExpirationDate>
+        <TaxPercentage>14</TaxPercentage>
+      </TaxTableEntry>
+    </TaxTable>
+  </MasterFiles>
+  <SourceDocuments>
+    <SalesInvoices>
+      <NumberOfEntries>2</NumberOfEntries>
+      <TotalDebit>0.00</TotalDebit>
+      <TotalCredit>1046.73</TotalCredit>
+      <Invoice>
+        <InvoiceNo>13 75/201900042</InvoiceNo>
+        <DocumentStatus>
+          <InvoiceStatus>N</InvoiceStatus>
+          <InvoiceStatusDate>2019-10-22T12:27:31</InvoiceStatusDate>
+          <SourceID>11</SourceID>
+          <SourceBilling>P</SourceBilling>
+        </DocumentStatus>
+        <Hash>avPTv9iRqjfdP2D5ouFN5UEc/3DqHoGM93uyItZPaIfS0nzwXg4tXF5O/HN+P0PF76XsUng60E5psoOt6kB+Lv77Q4TY3PUSTUgjMrjArgFAQFnmseHDazf/TppJESX3ig4efceSogVxq7/qT+8OG7KrupeMLdh6jz1byrTrLBs=</Hash>
+        <HashControl>1</HashControl>
+        <Period>10</Period>
+        <InvoiceDate>2019-10-17</InvoiceDate>
+        <InvoiceType>FT</InvoiceType>
+        <SpecialRegimes>
+          <SelfBillingIndicator>0</SelfBillingIndicator>
+          <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+          <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+        </SpecialRegimes>
+        <SourceID>11</SourceID>
+        <SystemEntryDate>2019-10-17T12:45:47</SystemEntryDate>
+        <TransactionID>2019-10-17 132 201700132</TransactionID>
+        <CustomerID>C00001</CustomerID>
+        <ShipTo>
+          <DeliveryID>Armazém</DeliveryID>
+          <Address>
+            <StreetName>Av Murtala Mohamed</StreetName>
+            <AddressDetail>Av Murtala Mohamed</AddressDetail>
+            <City>Luanda</City>
+            <PostalCode>1212</PostalCode>
+            <Country>AO</Country>
+          </Address>
+        </ShipTo>
+        <Line>
+          <LineNumber>1</LineNumber>
+          <ProductCode>10020101</ProductCode>
+          <ProductDescription>COCA COLA 0,20 TR</ProductDescription>
+          <Quantity>1</Quantity>
+          <UnitOfMeasure>UN</UnitOfMeasure>
+          <UnitPrice>46.7300</UnitPrice>
+          <TaxPointDate>2019-07-01</TaxPointDate>
+          <Description>COCA COLA 0,20 TR</Description>
+          <CreditAmount>46.73</CreditAmount>
+          <Tax>
+            <TaxType>IVA</TaxType>
+            <TaxCountryRegion>AO</TaxCountryRegion>
+            <TaxCode>NOR</TaxCode>
+            <TaxPercentage>14.00</TaxPercentage>
+          </Tax>
+          <SettlementAmount>0.47</SettlementAmount>
+        </Line>
+        <DocumentTotals>
+          <TaxPayable>6.54</TaxPayable>
+          <NetTotal>46.73</NetTotal>
+          <GrossTotal>53.27</GrossTotal>
+          <Currency>
+            <CurrencyCode>AOA</CurrencyCode>
+            <CurrencyAmount>0.00</CurrencyAmount>
+            <ExchangeRate>1</ExchangeRate>
+          </Currency>
+          <Settlement>
+            <SettlementAmount>0.00</SettlementAmount>
+          </Settlement>
+        </DocumentTotals>
+      </Invoice>
+      <Invoice>
+        <InvoiceNo>13 75/201900043</InvoiceNo>
+        <DocumentStatus>
+          <InvoiceStatus>N</InvoiceStatus>
+          <InvoiceStatusDate>2019-10-22T12:27:32</InvoiceStatusDate>
+          <SourceID>11</SourceID>
+          <SourceBilling>P</SourceBilling>
+        </DocumentStatus>
+        <Hash>aJcRILWe4bu36pGQB8b2+wTtbsvSmxvxTovbF1jIV7URuiWiE6iRf9bEvNQ/s4BR8sQJT5ltch7LrzBg52T1UmU53bmU3avg+EWX/QcwBVqAUDg5PKyFFIpHiR6VSScHRcT6iGzB4aJKVuc+oxYaLP5YpE7ySsHFTgTXDpY/0BI=</Hash>
+        <HashControl>1</HashControl>
+        <Period>10</Period>
+        <InvoiceDate>2019-10-17</InvoiceDate>
+        <InvoiceType>FT</InvoiceType>
+        <SpecialRegimes>
+          <SelfBillingIndicator>0</SelfBillingIndicator>
+          <CashVATSchemeIndicator>0</CashVATSchemeIndicator>
+          <ThirdPartiesBillingIndicator>0</ThirdPartiesBillingIndicator>
+        </SpecialRegimes>
+        <SourceID>7</SourceID>
+        <SystemEntryDate>2019-10-17T18:07:51</SystemEntryDate>
+        <TransactionID>2019-10-17 142 201700142</TransactionID>
+        <CustomerID>C00006</CustomerID>
+        <ShipTo>
+          <DeliveryID>Luanda</DeliveryID>
+          <Address>
+            <BuildingNumber>40</BuildingNumber>
+            <StreetName>Rua Marechal Gomes da Costa</StreetName>
+            <AddressDetail>Rua Marechal Gomes da Costa 40</AddressDetail>
+            <City>Luanda</City>
+            <PostalCode>Desconhecido</PostalCode>
+            <Country>AO</Country>
+          </Address>
+        </ShipTo>
+        <Line>
+          <LineNumber>1</LineNumber>
+          <OrderReferences>
+            <OriginatingON>15 78/201900007</OriginatingON>
+            <OrderDate>2019-10-17</OrderDate>
+          </OrderReferences>
+          <ProductCode>T01</ProductCode>
+          <ProductDescription>Artigo não Classificado</ProductDescription>
+          <Quantity>1</Quantity>
+          <UnitOfMeasure>UN</UnitOfMeasure>
+          <UnitPrice>1000.0000</UnitPrice>
+          <TaxPointDate>2019-10-17</TaxPointDate>
+          <Description>Artigo não Classificado</Description>
+          <CreditAmount>1000.00</CreditAmount>
+          <Tax>
+            <TaxType>IVA</TaxType>
+            <TaxCountryRegion>AO</TaxCountryRegion>
+            <TaxCode>ISE</TaxCode>
+            <TaxPercentage>0.00</TaxPercentage>
+          </Tax>
+          <TaxExemptionReason>Isento Artigo 12º c) do CIVA</TaxExemptionReason>
+          <TaxExemptionCode>M12</TaxExemptionCode>
+          <SettlementAmount>0.00</SettlementAmount>
+        </Line>
+        <DocumentTotals>
+          <TaxPayable>0.00</TaxPayable>
+          <NetTotal>1000.00</NetTotal>
+          <GrossTotal>1000.00</GrossTotal>
+          <Currency>
+            <CurrencyCode>AOA</CurrencyCode>
+            <CurrencyAmount>0.00</CurrencyAmount>
+            <ExchangeRate>1</ExchangeRate>
+          </Currency>
+          <Settlement>
+            <SettlementAmount>0.00</SettlementAmount>
+          </Settlement>
+        </DocumentTotals>
+      </Invoice>
+    </SalesInvoices>
+    <WorkingDocuments>
+      <NumberOfEntries>1</NumberOfEntries>
+      <TotalDebit>0.00</TotalDebit>
+      <TotalCredit>1000.00</TotalCredit>
+      <WorkDocument>
+        <DocumentNumber>15 78/201900007</DocumentNumber>
+        <DocumentStatus>
+          <WorkStatus>N</WorkStatus>
+          <WorkStatusDate>2019-10-22T12:27:33</WorkStatusDate>
+          <SourceID>11</SourceID>
+          <SourceBilling>P</SourceBilling>
+        </DocumentStatus>
+        <Hash>h7Mbm7leodflEKgtoXgBlF/weaCU6lFezej2ceuw0I8ntUuJb9RoTIVSf5PglT9qd9f3MCDyk176A5AnT7YNMe+eb/JAGUriZlwvZe+hmC9ZGrr4NO2iJF5JOOC8g57CH8g4Ze9Jl41fhQQpO8N9luuKNIecYj0dkqc1ludeuYc=</Hash>
+        <HashControl>1</HashControl>
+        <Period>10</Period>
+        <WorkDate>2019-10-17</WorkDate>
+        <WorkType>GR</WorkType>
+        <SourceID>7</SourceID>
+        <SystemEntryDate>2019-10-17T18:07:38</SystemEntryDate>
+        <TransactionID>2019-10-17 141 201700141</TransactionID>
+        <CustomerID>C00006</CustomerID>
+        <Line>
+          <LineNumber>1</LineNumber>
+          <ProductCode>T01</ProductCode>
+          <ProductDescription>Artigo não Classificado</ProductDescription>
+          <Quantity>1</Quantity>
+          <UnitOfMeasure>UN</UnitOfMeasure>
+          <UnitPrice>1000.0000</UnitPrice>
+          <TaxPointDate>2019-10-17</TaxPointDate>
+          <Description>Artigo não Classificado</Description>
+          <CreditAmount>1000.00</CreditAmount>
+          <Tax>
+            <TaxType>IVA</TaxType>
+            <TaxCountryRegion>AO</TaxCountryRegion>
+            <TaxCode>ISE</TaxCode>
+            <TaxPercentage>0.00</TaxPercentage>
+          </Tax>
+          <TaxExemptionReason>Isento Artigo 12º c) do CIVA</TaxExemptionReason>
+          <TaxExemptionCode>M12</TaxExemptionCode>
+          <SettlementAmount>0.00</SettlementAmount>
+        </Line>
+        <DocumentTotals>
+          <TaxPayable>0.00</TaxPayable>
+          <NetTotal>1000.00</NetTotal>
+          <GrossTotal>1000.00</GrossTotal>
+          <Currency>
+            <CurrencyCode>AOA</CurrencyCode>
+            <CurrencyAmount>0.00</CurrencyAmount>
+            <ExchangeRate>1</ExchangeRate>
+          </Currency>
+        </DocumentTotals>
+      </WorkDocument>
+    </WorkingDocuments>
+  </SourceDocuments>
+</AuditFile>
